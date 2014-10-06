@@ -2,5 +2,6 @@
 
 ## TODO
 
-- Proper *.gitignore* file.
-- Clean up in TODOs
+- Shiny (http://shiny.rstudio.com).
+  - Quantified Self trends extraction.
+- R Markdown (http://rmarkdown.rstudio.com).
