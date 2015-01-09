@@ -1,0 +1,9 @@
+---
+title: "Example"
+output:
+  pdf_document:
+    toc: true
+    highlight: zenburn
+---
+
+I counted `r 1+1` red trucks on the highway.
